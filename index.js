@@ -14,3 +14,5 @@ function updateObject(target, source){
 		}
 	}
 }
+
+module.exports = updateObject;
